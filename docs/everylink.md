@@ -7,18 +7,16 @@
 * SSH连接
 * HTTP访问
 
+# 下载
 
-# 安装
-
-软件下载后，同目录新建config.json文件，config.json配置见下文
-
-> 下载地址：
-
-[百度网盘]()
-
-[诚通网盘]()
+https://url36.ctfile.com/f/7718336-751518741-a29374?p=7222 (访问密码: 7222)
 
 # 配置
+软件相同目录新建config.json文件，config.json配置见下文
+
+默认读取当前目录config.json文件，可通过`-c`指定配置文件
+
+例如：EveryLink.exe -c abc.json
 
 config.json配置如下：
 
